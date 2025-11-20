@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b21a33-2b37-4209-9cb4-53ce8476a949" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Class Work/Task 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/Task 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/Task 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/Task 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/Task 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 3 Part 3/Task 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 3 Part 3/Task 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class Work/Task 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3 Part 3/Task 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3 Part 3/Task 4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class Work/Task 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class Work/Task 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3 Part 3/Task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 3 Part 3/Task 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,33 +63,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Task 1.executor": "Run",
-    "Python.Task 2.executor": "Run",
-    "Python.Task 3.executor": "Run",
-    "Python.Task 4.executor": "Run",
-    "Python.Task 5.executor": "Run",
-    "Python.оо.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Task 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.оо.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Martinas\PycharmProjects\DeLife" />
@@ -121,6 +121,8 @@
       <workItem from="1762434787614" duration="1300000" />
       <workItem from="1762768549485" duration="6305000" />
       <workItem from="1762946643768" duration="11349000" />
+      <workItem from="1763373302597" duration="2970000" />
+      <workItem from="1763631864824" duration="1567000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -178,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761900149216</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update">
+      <option name="closed" value="true" />
+      <created>1763373494006</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763373494006</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,9 +201,11 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DeLife$.coverage" NAME="оо Coverage Results" MODIFIED="1761804744202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 5" />
     <SUITE FILE_PATH="coverage/DeLife$Task_2.coverage" NAME="Task 2 Coverage Results" MODIFIED="1762769736671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_4.coverage" NAME="Task 4 Coverage Results" MODIFIED="1763117387837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/DeLife$Task_4.coverage" NAME="Task 4 Coverage Results" MODIFIED="1763633426034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 3" />
+    <SUITE FILE_PATH="coverage/DeLife$Task_6.coverage" NAME="Task 6 Coverage Results" MODIFIED="1763374071445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$Task_1.coverage" NAME="Task 1 Coverage Results" MODIFIED="1762947112382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 3" />
+    <SUITE FILE_PATH="coverage/DeLife$Task_7.coverage" NAME="Task 7 Coverage Results" MODIFIED="1763375554595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$Task_5.coverage" NAME="Task 5 Coverage Results" MODIFIED="1763118579671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1762772535138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/DeLife$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1763632855077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 3" />
   </component>
 </project>
