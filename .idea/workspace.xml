@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b21a33-2b37-4209-9cb4-53ce8476a949" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/Pum Pum Pum/Task 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 3 Part 3/Task 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 3 Part 3/Task 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 3 Part 4/Task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 3 Part 4/Task 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class Work/Task 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pum Pum Pum/Task 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class Work/Task 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pum Pum Pum/Task 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +94,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Martinas\PycharmProjects\DeLife\Pum Pum Pum" />
       <recent name="C:\Users\Martinas\PycharmProjects\DeLife\Module 4 Part 1" />
       <recent name="C:\Users\Martinas\PycharmProjects\DeLife" />
     </key>
@@ -124,7 +126,7 @@
       <workItem from="1763373302597" duration="2970000" />
       <workItem from="1763631864824" duration="9685000" />
       <workItem from="1763976518383" duration="11221000" />
-      <workItem from="1764321762730" duration="8755000" />
+      <workItem from="1764321762730" duration="9930000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -214,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764325313740</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update">
+      <option name="closed" value="true" />
+      <created>1764331971941</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764331971941</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +244,6 @@
     <SUITE FILE_PATH="coverage/DeLife$Task_1.coverage" NAME="Task 1 Coverage Results" MODIFIED="1764331884895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 4" />
     <SUITE FILE_PATH="coverage/DeLife$Task_7.coverage" NAME="Task 7 Coverage Results" MODIFIED="1763375554595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$Task_5.coverage" NAME="Task 5 Coverage Results" MODIFIED="1763118579671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1764325094639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 4" />
+    <SUITE FILE_PATH="coverage/DeLife$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1764333991420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pum Pum Pum" />
   </component>
 </project>
