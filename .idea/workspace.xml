@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b21a33-2b37-4209-9cb4-53ce8476a949" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Pum Pum Pum/Task 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class Work/Task 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pum Pum Pum/Task 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class Work/Task 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pum Pum Pum/Task 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class Work/Task 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pum Pum Pum/Task 9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class Work/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class Work/Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +94,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Martinas\PycharmProjects\DeLife\Pum Pum Pum" />
+      <recent name="C:\Users\Martinas\PycharmProjects\DeLife\Module 4 Part 2" />
       <recent name="C:\Users\Martinas\PycharmProjects\DeLife\Module 4 Part 1" />
       <recent name="C:\Users\Martinas\PycharmProjects\DeLife" />
     </key>
@@ -126,7 +126,7 @@
       <workItem from="1763373302597" duration="2970000" />
       <workItem from="1763631864824" duration="9685000" />
       <workItem from="1763976518383" duration="11221000" />
-      <workItem from="1764321762730" duration="9930000" />
+      <workItem from="1764321762730" duration="13781000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -224,7 +224,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764331971941</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update">
+      <option name="closed" value="true" />
+      <created>1764334193379</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764334193379</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update">
+      <option name="closed" value="true" />
+      <created>1764334392770</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764334392770</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +252,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DeLife$.coverage" NAME="оо Coverage Results" MODIFIED="1761804744202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 5" />
-    <SUITE FILE_PATH="coverage/DeLife$Test.coverage" NAME="Test Coverage Results" MODIFIED="1763969672775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/DeLife$Test.coverage" NAME="Test Coverage Results" MODIFIED="1764416680879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$Task_2.coverage" NAME="Task 2 Coverage Results" MODIFIED="1764327559380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 3" />
     <SUITE FILE_PATH="coverage/DeLife$Task_4.coverage" NAME="Task 4 Coverage Results" MODIFIED="1763633469534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 3" />
     <SUITE FILE_PATH="coverage/DeLife$Task_6.coverage" NAME="Task 6 Coverage Results" MODIFIED="1763374071445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
@@ -244,6 +260,6 @@
     <SUITE FILE_PATH="coverage/DeLife$Task_1.coverage" NAME="Task 1 Coverage Results" MODIFIED="1764331884895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 4" />
     <SUITE FILE_PATH="coverage/DeLife$Task_7.coverage" NAME="Task 7 Coverage Results" MODIFIED="1763375554595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$Task_5.coverage" NAME="Task 5 Coverage Results" MODIFIED="1763118579671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1764333991420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pum Pum Pum" />
+    <SUITE FILE_PATH="coverage/DeLife$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1764334129084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pum Pum Pum" />
   </component>
 </project>
