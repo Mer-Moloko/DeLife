@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b21a33-2b37-4209-9cb4-53ce8476a949" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Class Work/Pngsuper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/fizizizka/Task 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/fizizizka/Task 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/fizizizka/Task 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/fizizizka/Task 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/mp3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/mp3_lzma2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/mp3old.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/muhtar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/muhtar2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/png.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/png2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/test.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/testshiza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class Work/zx_decoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pum Pum Pum/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rare Goods Store/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/png2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sosy_hui.fj4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class Work/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rare Goods Store/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rare Goods Store/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +226,7 @@
       <workItem from="1772436069211" duration="9000" />
       <workItem from="1772436116374" duration="1226000" />
       <workItem from="1773642757604" duration="11266000" />
-      <workItem from="1774338841558" duration="5736000" />
+      <workItem from="1774338841558" duration="6753000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -383,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766142697967</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update">
+      <option name="closed" value="true" />
+      <created>1774345382230</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1774345382230</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +388,7 @@
     <SUITE FILE_PATH="coverage/DeLife$png2.coverage" NAME="png2 Coverage Results" MODIFIED="1767944747371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$Task_6.coverage" NAME="Task 6 Coverage Results" MODIFIED="1763374071445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$png2_1.coverage" NAME="png2_1 Coverage Results" MODIFIED="1767945996385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DeLife$main.coverage" NAME="main Coverage Results" MODIFIED="1774342960940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rare Goods Store" />
+    <SUITE FILE_PATH="coverage/DeLife$main.coverage" NAME="main Coverage Results" MODIFIED="1774346258871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rare Goods Store" />
     <SUITE FILE_PATH="coverage/DeLife$mp3old.coverage" NAME="mp3old Coverage Results" MODIFIED="1768896549948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$Task_7.coverage" NAME="Task 7 Coverage Results" MODIFIED="1763375554595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1774247129287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/fizizizka" />

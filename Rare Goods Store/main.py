@@ -1,18 +1,23 @@
 
-newlist = {"Телефон":{"плоский", "афон", "электроника", "для отупления"},
+list = {"Телефон":{"плоский", "афон", "электроника", "для отупления"},
         "Микроволновка":{"забавный", "игры", "огненное шоу", "электроника"},
         "4 Энергоблок":{"забавный", "огненное шоу", "электроника"},
         "Тефтелька":{"вкусный"},
         "Станки универсальные токарно-винторезные модели Б16Д25":{"электроника", "забавный"},
         "Фонарный столб":{"электроника"}}
-
-list = sorted(newlist, key=lambda x: len(x))
+def print_sort(values):
+    sort = sorted(values, key=len)
+    for item in sort:
+        print(item)
 
 def find_by_category(category):
+    view = []
     for keys in list:
         for value in list[keys]:
             if value == category:
-                print("\t"+keys)
+                view.append(keys)
+    print_sort(view)
+
 
 while True:
     print("\nВы зашли в магазин редких товаров")
