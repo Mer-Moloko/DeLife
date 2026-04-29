@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b21a33-2b37-4209-9cb4-53ce8476a949" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/Module 3 Part 2/Task 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3 Part 2/Task 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rare Goods Store/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rare Goods Store/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +17,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -49,9 +49,6 @@
     &quot;accountId&quot;: &quot;b4853d64-2ac5-45ba-97e1-c030d430c3ef&quot;
   }
 }</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -66,43 +63,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.ImageAudioEncoder.executor": "Run",
-    "Python.Pngsuper.executor": "Run",
     "Python.Task 1.executor": "Run",
-    "Python.Task 10.executor": "Run",
-    "Python.Task 11.executor": "Run",
     "Python.Task 2.executor": "Run",
     "Python.Task 3.executor": "Run",
     "Python.Task 4.executor": "Run",
-    "Python.Task 5.executor": "Run",
-    "Python.Task 6.executor": "Run",
-    "Python.Task 7.executor": "Run",
-    "Python.Task 9.executor": "Run",
-    "Python.Test.executor": "Run",
-    "Python.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mp3.executor": "Run",
-    "Python.mp3_lzma2.executor": "Run",
-    "Python.mp3old.executor": "Run",
-    "Python.muhtar.executor": "Run",
-    "Python.muhtar2.executor": "Run",
-    "Python.png.executor": "Run",
-    "Python.png2.executor": "Run",
-    "Python.png2_1.executor": "Run",
-    "Python.testshiza.executor": "Run",
-    "Python.zx_decoder.executor": "Run",
-    "Python.оо.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Martinas/PycharmProjects/DeLife/Class Work",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -113,70 +86,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Martinas\PycharmProjects\DeLife\Class Work" />
-      <recent name="C:\Users\Martinas\PycharmProjects\DeLife" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Martinas\PycharmProjects\DeLife" />
-      <recent name="C:\Users\Martinas\PycharmProjects\DeLife\Pum Pum Pum" />
-      <recent name="C:\Users\Martinas\PycharmProjects\DeLife\Module 4 Part 2" />
-      <recent name="C:\Users\Martinas\PycharmProjects\DeLife\Module 4 Part 1" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="muhtar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DeLife" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class Work" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class Work/muhtar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="muhtar2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DeLife" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class Work" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class Work/muhtar2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.muhtar" />
-        <item itemvalue="Python.muhtar2" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -195,38 +107,7 @@
       <updated>1760357254733</updated>
       <workItem from="1760357255714" duration="9629000" />
       <workItem from="1760465137562" duration="15000" />
-      <workItem from="1760689209718" duration="7635000" />
-      <workItem from="1761757789004" duration="5542000" />
-      <workItem from="1761897617615" duration="5188000" />
-      <workItem from="1762409106393" duration="6450000" />
-      <workItem from="1762434787614" duration="1300000" />
-      <workItem from="1762768549485" duration="6305000" />
-      <workItem from="1762946643768" duration="11349000" />
-      <workItem from="1763373302597" duration="2970000" />
-      <workItem from="1763631864824" duration="9685000" />
-      <workItem from="1763976518383" duration="11221000" />
-      <workItem from="1764321762730" duration="21797000" />
-      <workItem from="1764924441590" duration="5178000" />
-      <workItem from="1765389122245" duration="393000" />
-      <workItem from="1766134062692" duration="10396000" />
-      <workItem from="1766384380410" duration="1029000" />
-      <workItem from="1766567587917" duration="101000" />
-      <workItem from="1767558862848" duration="6237000" />
-      <workItem from="1767698743658" duration="30223000" />
-      <workItem from="1767943885191" duration="27760000" />
-      <workItem from="1768504235513" duration="46764000" />
-      <workItem from="1768894506360" duration="6905000" />
-      <workItem from="1769542561214" duration="1546000" />
-      <workItem from="1770236562344" duration="19961000" />
-      <workItem from="1770297360771" duration="759000" />
-      <workItem from="1772005030736" duration="5040000" />
-      <workItem from="1772178747101" duration="2772000" />
-      <workItem from="1772181747306" duration="2693000" />
-      <workItem from="1772434657502" duration="1361000" />
-      <workItem from="1772436069211" duration="9000" />
-      <workItem from="1772436116374" duration="1226000" />
-      <workItem from="1773642757604" duration="11266000" />
-      <workItem from="1774338841558" duration="6753000" />
+      <workItem from="1760689209718" duration="3947000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -260,119 +141,7 @@
       <option name="project" value="LOCAL" />
       <updated>1760691271862</updated>
     </task>
-    <task id="LOCAL-00005" summary="Update">
-      <option name="closed" value="true" />
-      <created>1760694142901</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1760694142901</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Update">
-      <option name="closed" value="true" />
-      <created>1760696154444</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1760696154444</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Update">
-      <option name="closed" value="true" />
-      <created>1761900149216</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1761900149216</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Update">
-      <option name="closed" value="true" />
-      <created>1763373494006</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1763373494006</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Update">
-      <option name="closed" value="true" />
-      <created>1763633516057</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1763633516057</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Update">
-      <option name="closed" value="true" />
-      <created>1764323517916</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1764323517916</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Update">
-      <option name="closed" value="true" />
-      <created>1764325313740</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1764325313740</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Update">
-      <option name="closed" value="true" />
-      <created>1764331971941</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1764331971941</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Update">
-      <option name="closed" value="true" />
-      <created>1764334193379</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1764334193379</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Update">
-      <option name="closed" value="true" />
-      <created>1764334392770</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1764334392770</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Update">
-      <option name="closed" value="true" />
-      <created>1764581948353</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1764581948353</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Update">
-      <option name="closed" value="true" />
-      <created>1764938383995</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1764938383995</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Update">
-      <option name="closed" value="true" />
-      <created>1766142697967</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1766142697967</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Update">
-      <option name="closed" value="true" />
-      <created>1774345382230</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1774345382230</updated>
-    </task>
-    <option name="localTasksCounter" value="19" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,31 +152,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DeLife$Test.coverage" NAME="Test Coverage Results" MODIFIED="1767560857055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_10.coverage" NAME="Task 10 Coverage Results" MODIFIED="1764584877069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$png2.coverage" NAME="png2 Coverage Results" MODIFIED="1767944747371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_6.coverage" NAME="Task 6 Coverage Results" MODIFIED="1763374071445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$png2_1.coverage" NAME="png2_1 Coverage Results" MODIFIED="1767945996385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DeLife$main.coverage" NAME="main Coverage Results" MODIFIED="1774346258871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rare Goods Store" />
-    <SUITE FILE_PATH="coverage/DeLife$mp3old.coverage" NAME="mp3old Coverage Results" MODIFIED="1768896549948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_7.coverage" NAME="Task 7 Coverage Results" MODIFIED="1763375554595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1774247129287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/fizizizka" />
-    <SUITE FILE_PATH="coverage/DeLife$mp3.coverage" NAME="mp3 Coverage Results" MODIFIED="1768903415161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_11.coverage" NAME="Task 11 Coverage Results" MODIFIED="1764937447118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$testshiza.coverage" NAME="testshiza Coverage Results" MODIFIED="1772436949013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$ImageAudioEncoder.coverage" NAME="ImageAudioEncoder Coverage Results" MODIFIED="1767571731900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$zx_decoder.coverage" NAME="zx_decoder Coverage Results" MODIFIED="1767700149087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$mp3_lzma2.coverage" NAME="mp3_lzma2 Coverage Results" MODIFIED="1770297496319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_5.coverage" NAME="Task 5 Coverage Results" MODIFIED="1763118579671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$.coverage" NAME="оо Coverage Results" MODIFIED="1761804744202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 5" />
-    <SUITE FILE_PATH="coverage/DeLife$Pngsuper.coverage" NAME="Pngsuper Coverage Results" MODIFIED="1767976393808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_2.coverage" NAME="Task 2 Coverage Results" MODIFIED="1773651464881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/fizizizka" />
-    <SUITE FILE_PATH="coverage/DeLife$png.coverage" NAME="png Coverage Results" MODIFIED="1768508901077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$muhtar.coverage" NAME="muhtar Coverage Results" MODIFIED="1774340308875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$muhtar2.coverage" NAME="muhtar2 Coverage Results" MODIFIED="1772009031246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_4.coverage" NAME="Task 4 Coverage Results" MODIFIED="1774249357963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/fizizizka" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_9.coverage" NAME="Task 9 Coverage Results" MODIFIED="1763996211337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/DeLife$aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.coverage" NAME="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa Coverage Results" MODIFIED="1766384483810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pum Pum Pum" />
-    <SUITE FILE_PATH="coverage/DeLife$Task_1.coverage" NAME="Task 1 Coverage Results" MODIFIED="1772181312580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/fizizizka" />
+    <SUITE FILE_PATH="coverage/DeLife$Task_2.coverage" NAME="Task 2 Coverage Results" MODIFIED="1760693122223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 2" />
+    <SUITE FILE_PATH="coverage/DeLife$Task_4.coverage" NAME="Task 4 Coverage Results" MODIFIED="1760691115808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 2 Part 3" />
+    <SUITE FILE_PATH="coverage/DeLife$Task_1.coverage" NAME="Task 1 Coverage Results" MODIFIED="1760694121387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 3 Part 2" />
+    <SUITE FILE_PATH="coverage/DeLife$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1760361068719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 2 Part 3" />
   </component>
 </project>
