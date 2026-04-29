@@ -1,0 +1,17 @@
+{
+  "path": "C:/Users/Makaroshka/Desktop/cf1c918ced2d11f0838ce21fd7f4ec8b_1_out.png",
+  "format": "PNG",
+  "mode": "RGB",
+  "width": 768,
+  "height": 1344,
+  "file_size": 1299843,
+  "sha256": "2cf1b7d81c802e76c0f83f74e7dddab0a1e19c27f325eb40bd18e46a62002115",
+  "md5": "57d78433322fb7a1c20398715d58e826",
+  "png_corrupt_chunk": null,
+  "_saved_by": "resilient_png_tool_v3",
+  "_original_path": "C:/Users/Makaroshka/Desktop/cf1c918ced2d11f0838ce21fd7f4ec8b_1_out.png",
+  "_mode_lossy": false,
+  "_created_at": "2026-01-09T07:58:01Z",
+  "_decompress_error": "lz4.frame not available. Install python-lz4: pip install lz4",
+  "_approx_corrupt_offset_in_lz4_payload": null
+}
