@@ -27,6 +27,7 @@ while True:
         print("Добавляем заметку:")
         add_note(input("\tВведите категорию: "), input("\tВведите текст: "))
 
+
     elif choice == "2":
         print("Все заметки:")
         for note in notes:
