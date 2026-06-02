@@ -36,7 +36,7 @@ while True:
         print("Поиск заметки по категории")
         a = input("Введите категорию: ")
         for note in notes:
-            if note[0].strip() == a:
+            if note[0].strip().lower() == a.lower():
                 print(f"\t{note[0]}|{note[1]}")
         print("Поиск окончен")
 
@@ -47,7 +47,7 @@ while True:
 
         for note in notes:
             for word in note[1].strip().split():
-                if word == a:
+                if word.lower() == a.lower():
                     print(f"\t{note[0]}|{note[1]}")
         print("Поиск окончен")
 
