@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b21a33-2b37-4209-9cb4-53ce8476a949" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/sosy_hui.fj4" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class Work/dbxsas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
     "Python.Task 2.executor": "Run",
     "Python.Task 3.executor": "Run",
     "Python.Task 4.executor": "Run",
+    "Python.dbxsas.executor": "Run",
     "Python.randomWords.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -112,7 +114,8 @@
       <workItem from="1760689209718" duration="3947000" />
       <workItem from="1778566081191" duration="18000" />
       <workItem from="1778825212677" duration="88000" />
-      <workItem from="1780394719075" duration="1767000" />
+      <workItem from="1780394719075" duration="4494000" />
+      <workItem from="1781715420304" duration="4988000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -170,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780396471537</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update">
+      <option name="closed" value="true" />
+      <created>1780396516291</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780396516291</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +202,7 @@
     <SUITE FILE_PATH="coverage/DeLife$Task_7.coverage" NAME="Task 7 Coverage Results" MODIFIED="1763375554595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1774247129287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work/fizizizka" />
     <SUITE FILE_PATH="coverage/DeLife$mp3.coverage" NAME="mp3 Coverage Results" MODIFIED="1768903415161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+    <SUITE FILE_PATH="coverage/DeLife$dbxsas.coverage" NAME="dbxsas Coverage Results" MODIFIED="1781719584944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$Task_11.coverage" NAME="Task 11 Coverage Results" MODIFIED="1764937447118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$testshiza.coverage" NAME="testshiza Coverage Results" MODIFIED="1772436949013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
     <SUITE FILE_PATH="coverage/DeLife$ImageAudioEncoder.coverage" NAME="ImageAudioEncoder Coverage Results" MODIFIED="1767571731900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
