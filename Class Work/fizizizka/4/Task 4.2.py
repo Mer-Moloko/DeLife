@@ -1,3 +1,5 @@
+import math
+
 R_z = 6370
 h = 200
 T_min = 88
